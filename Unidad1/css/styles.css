@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(136, 136, 136);
+}
+
+
+h2{
+    font-size: 7 rem;
+    color: #14154d;
+    text-align: center;
+    padding: 2rem;
+}
+
+.yo{
+    width: 10 rem;
+    height: 10 rem;
+    border-radius: 50%;
+}
+
